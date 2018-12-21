@@ -1,0 +1,11 @@
+body {
+    padding:0px;
+    margin:0px;
+    background-color:skyblue;
+    background-image:url("../images/night_sky.jpeg");
+    color:#fff;
+}
+
+.marginTop100 {
+    margin-top:100px;
+}
